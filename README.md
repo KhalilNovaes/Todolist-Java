@@ -1,7 +1,7 @@
 # Todolist-Java
 __Construção de uma Todolist utilizando Java e Spring Boot__
 
-<div style="display: inline_blick">
+<div style="display: inline_block">
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
